@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: calibri;
+}
+
+ul{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* header css */
+
+.theme{
+    background-color: rgb(15, 15, 112);
+}
+
+.social a{
+    color: #fff;
+}
+
+.social a:hover{
+    color: goldenrod;
+}
+
+.slider1{
+    background-image: url(../IMAGE/asset\ 53.jpeg);
+    padding: 100px 0;
+    background-size: cover;
+    background-position: center;
+}
